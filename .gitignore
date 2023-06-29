@@ -2,3 +2,7 @@ node_modules
 build
 lib
 jupyterlab_examples_toolbar_button.egg-info
+jupyterlab_examples_toolbar_button/labextension
+**/.DS_store
+package-lock.json
+tsconfig.tsbuildinfo
